@@ -69,8 +69,9 @@ hotel-booking-analysis/
 
 ## Contact
 **Gurdeep Singh**  
-📧 gurdeepsingehre@gmail.com  
-📱 +91 95578 46089
+gurdeepsingehre@gmail.com  
++91 95578 46089
+https://gurdeepsingh.space
 
 ## License
 This repository is for internal analysis and demonstration. Check with stakeholders before public sharing.
